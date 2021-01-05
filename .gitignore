@@ -72,6 +72,15 @@ app/src/main/java/pl/*
 app/src/main/java/pl/jawegiel/*
 !app/src/main/java/pl/jawegiel/endlessblow
 app/src/main/java/pl/jawegiel/endlessblow/*
+!app/src/main/java/pl/jawegiel/endlessblow/interfaces
+app/src/main/java/pl/jawegiel/endlessblow/interfaces*
+!app/src/main/java/pl/jawegiel/endlessblow/interfaces/CredentialsContract.java
+!app/src/main/java/pl/jawegiel/endlessblow/activities
+app/src/main/java/pl/jawegiel/endlessblow/activities/*
+!app/src/main/java/pl/jawegiel/endlessblow/activities/Credentials.java
+!app/src/main/java/pl/jawegiel/endlessblow/presenter
+app/src/main/java/pl/jawegiel/endlessblow/presenter/*
+!app/src/main/java/pl/jawegiel/endlessblow/presenter/CredentialsPresenter.java
 !app/src/main/java/pl/jawegiel/endlessblow/model
 app/src/main/java/pl/jawegiel/endlessblow/model/*
 !app/src/main/java/pl/jawegiel/endlessblow/model/SharedPreferencesModel.java
