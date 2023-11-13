@@ -38,13 +38,6 @@ public class Credentials extends AppCompatActivity implements CredentialsContrac
     private RestModel restModel;
 
     @Override
-    protected void onPause() {
-        super.onPause();
-//        for (String s : usersLoggedOnCredential)
-//            restModel.logout(s);
-    }
-
-    @Override
     protected void onCreate(@Nullable Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.credentials_layout);
